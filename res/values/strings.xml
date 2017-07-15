@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GBNApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="product">product</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="sum">sum</string>
+    <string name="sum_label">Total (€): </string>
+    <string name="curr_lb">currency: </string>
+    <string name="curr">curr</string>
+    <string name="amount">amount</string>
+    <string name="back">Back</string>
+
+</resources>

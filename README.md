@@ -1,0 +1,1 @@
+Android developer aptitude test. It is used by many companies to evaluate each candidate for a job interview. Please, see doc/CodeTest.pdf for full description.
